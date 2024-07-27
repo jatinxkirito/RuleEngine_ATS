@@ -63,13 +63,13 @@ Some features of the RuleEngine:
 
 1. Run git clone in terminal
    ```bash
-    git clone REPO_LINK
+    git clone https://github.com/jatinxkirito/RuleEngine_ATS.git
    ```
 2. In zeotap_backend folder
 
    - Create config.env file with following content
      ```bash
-      DATABASE_LINK=https://github.com/jatinxkirito/RuleEngine_ATS.git
+      DATABASE_LINK="Your MongoDB database link"
      ```
    - Run following in terminal
      ```bash
