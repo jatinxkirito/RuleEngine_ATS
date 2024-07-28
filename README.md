@@ -77,7 +77,7 @@ Some features of the RuleEngine:
        npm start
      ```
 
-3. In zeotap_frontend folder
+3. In zeotap__frontend folder
 
    - Run following in terminal
      ```bash
