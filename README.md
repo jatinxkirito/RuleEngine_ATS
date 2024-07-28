@@ -90,5 +90,5 @@ Some features of the RuleEngine:
 5. To run tests, go to zeotap_backend folder and run following command in terminal
 
    ```bash
-    mocha --file test/testSetup.js test/**/*.test.js
+    npx mocha --file test/testSetup.js test/**/*.test.js
    ```
