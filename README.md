@@ -56,8 +56,9 @@ Rule:
 Some features of the RuleEngine:
 
 1. Parsed the rule string in **Linear Time**
-2. Implemented **error handling** in Rule string parsing like invalid syntax and invalid type comparison.
-3. Used **promise** in rule evaluation for parallel processing to **fasten** the process
+2. Easy to add more operators or add priority to operators in future
+3. Implemented **error handling** in Rule string parsing like invalid syntax and invalid type comparison.
+4. Used **promise** in rule evaluation for parallel processing to **fasten** the process
 
 ## Usage
 
